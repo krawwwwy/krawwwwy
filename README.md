@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.discordapp.net/attachments/721806698880172052/1106265377551421570/7e6e4ab150043aee.gif?ex=665d4eab&is=665bfd2b&hm=16a316152b5caaca6061ad075e09f850cabdff3bfd996c53ac56764e62ba1bd6&" width="100"/>
-  <img src="[https://media1.tenor.com/m/I5uHvoGLD8QAAAAd/skibidi.gif](https://cdn.discordapp.com/attachments/1025452407628517376/1246830229650149389/83447719-cddc-44d5-989d-9b3b4b5d4214.gif?ex=665dd0a3&is=665c7f23&hm=97f14cd5e4da7fe0c6a8ed7797ba0e89c8ac1d6b25aaba8c6266f57f153b03d0&)" width="300">
+  <img src="https://media.discordapp.net/attachments/721806698880172052/1106265377551421570/7e6e4ab150043aee.gif?ex=665d4eab&is=665bfd2b&hm=16a316152b5caaca6061ad075e09f850cabdff3bfd996c53ac56764e62ba1bd6&" width="300"/>
+  
  </div>
  <div id="badges" align="center">
   <a href="https://discordapp.com/users/374851305346433044/">
