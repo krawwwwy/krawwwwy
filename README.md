@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/ymsh0cws7ROmko6VvM/giphy.gif" width="40px"/>
 </h1>
 <div align="center">
-  <img src="[https://media.giphy.com/media/WdSu8lbeRO9vHhb0ls/giphy.gif](https://media.discordapp.net/attachments/955777504881287168/1097147258392301578/Di_Drone_Strike-3.gif?ex=665dc102&is=665c6f82&hm=344cf4269bb51cafa107e599961c6826a9053f8b975792dff3020f6b1b06fd36&)" width="600" height="300"/>
+  <img src="https://media.discordapp.net/attachments/955777504881287168/1097147258392301578/Di_Drone_Strike-3.gif?ex=665dc102&is=665c6f82&hm=344cf4269bb51cafa107e599961c6826a9053f8b975792dff3020f6b1b06fd36&" width="600" height="300"/>
 </div>
 <div allign="left">
   
