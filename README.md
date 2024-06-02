@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+  <img src="https://media.discordapp.net/attachments/721806698880172052/1106265377551421570/7e6e4ab150043aee.gif?ex=665d4eab&is=665bfd2b&hm=16a316152b5caaca6061ad075e09f850cabdff3bfd996c53ac56764e62ba1bd6&" width="100"/>
  </div>
  <div id="badges" align="center">
   <a href="https://discordapp.com/users/374851305346433044/">
@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/ymsh0cws7ROmko6VvM/giphy.gif" width="40px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/WdSu8lbeRO9vHhb0ls/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/WdSu8lbeRO9vHhb0ls/giphy.gif](https://media.discordapp.net/attachments/955777504881287168/1097147258392301578/Di_Drone_Strike-3.gif?ex=665dc102&is=665c6f82&hm=344cf4269bb51cafa107e599961c6826a9053f8b975792dff3020f6b1b06fd36&)" width="600" height="300"/>
 </div>
 <div allign="left">
   
@@ -31,7 +31,7 @@
   
 For now i'm a beginer programmist from Russia.
  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://tenor.com/view/skibidi-gif-2565793665004539844)" width="300">
 
 
  Here I will post my pet-projects
