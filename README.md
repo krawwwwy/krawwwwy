@@ -1,4 +1,4 @@
-div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
  </div>
  <div id="badges" align="center">
@@ -15,7 +15,9 @@ div id="header" align="center">
      <img src="https://img.shields.io/badge/Leetcode-black?logo=leetcode&logoColor=white=for-the-badge" alt="Leetcode Badge" width="100" height="30"/>
   </a>
 <div id="badegs" align="center">
-<img src="https://komarev.com/ghpvc/?username=your-krawwwwy&style=for-the-badge&color=blueviolet" alt=""/>
+<a>
+  <img src="https://komarev.com/ghpvc/?username=your-krawwwwy&style=for-the-badge&color=blueviolet" alt=""/>
+</a>
 <h1 align="center">
  wlcm
   <img src="https://media.giphy.com/media/ymsh0cws7ROmko6VvM/giphy.gif" width="40px"/>
